@@ -1,0 +1,1 @@
+Function that computes the square
